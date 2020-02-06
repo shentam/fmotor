@@ -1,0 +1,37 @@
+JOGO + UPDATES + CRACK 1903.rar 下载此处压缩包 https://pan.baidu.com/s/13PjSxuCwW21uHzrBn9maQQ 提取码：aatl
+
+請提前打開Windows設置-更新和安全-開發者選項-開發人員模式
+
+
+
+
+
+
+【安裝方法】：
+
+
+下載codex-forza.motorsport.7.torrent或百度雲分享的文件
+文件解壓，得到一個iso文件，將其加載至虛擬光驅，按照提示操作，不建議更改默認安裝路徑，按照提示安裝。
+
+
+不要復制crack內的文件到主目錄下的app files，否則有可能校驗失敗。也不要打開遊戲。
+
+
+下載torrent內的
+“Forza.Motorsport.7.Update.v1.133.8511.2.incl.DLC-CODEX.torrent”
+“Forza.Motorsport.7.Update.v1.137.587.2.incl.DLC-CODEX.torrent”
+“Forza.Motorsport.7.Update.v1.141.192.2.incl.DLC-CODEX.torrent”
+並按照版本號順序安裝。下載後CODEX內文件不要復制到目錄中的app files。
+當上述三個升級都安裝完成後，打開
+”CRACK FOR Win1903 FMT7“
+將裡面的所有文件復制到主目錄內的app files並替換。
+管理員模式打開powershell
+輸入
+cd ”C:\Users\此處填入你的用戶名\UniversalApps\Forza Motorsport 7\AppFiles“（此处为安装目录）
+回車
+Add-AppxPackage -register AppxManifest.xml
+回車
+等待部署完成後從開始菜單打開遊戲即可
+（註意第一條命令中的cd後面粘貼路徑的時候必須帶英文雙引號）
+
+https://game.ali213.net/thread-6583715-1-1.html
